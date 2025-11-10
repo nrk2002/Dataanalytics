@@ -1,0 +1,5 @@
+a=input("Enter a string:")
+b=input("Enter a word:")
+c=input("Enter a replace word :")
+rep=a.replace(b,c)
+print(rep)

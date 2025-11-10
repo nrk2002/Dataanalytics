@@ -1,0 +1,6 @@
+a=int(input("Enter a number"))
+b=int(input("Enter a number"))
+c=int(input("Enter a number"))
+print("Square of a:",a**2)
+print("Cube of a:",a**3)
+print("Average of 3 numbers:",(a+b+c)/3)

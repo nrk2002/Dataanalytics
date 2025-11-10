@@ -1,0 +1,8 @@
+a=int(input("Enter a number"))
+b=int(input("Enter a number"))
+print("a is greater than b:",a>b)
+print("b is greater than a:",a<b)
+print("a is equal to b:",a==b)
+print("a is not equal to b:",a!=b)
+print("a is greater than or equal to b:",a>=b)
+print("b is greater than or equal to a:",a<=b)

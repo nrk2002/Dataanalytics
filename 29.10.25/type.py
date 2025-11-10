@@ -1,0 +1,16 @@
+a="Ramyakrishna"
+b=23
+c=2.3
+d=[1,2,3]
+e=(1,2,3)
+f={1,2,3}
+g={"name":"ramya","age":"23"}
+h=False
+print(a,(type(a)),"\n",
+      b,(type(b)),"\n",
+      c,(type(c)),"\n",
+      d,(type(d)),"\n",
+      e,(type(e)),"\n",
+      f,(type(f)),"\n",
+      g,(type(g)),"\n",
+      h,(type(h)),"\n")
