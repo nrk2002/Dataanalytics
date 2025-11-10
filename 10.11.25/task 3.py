@@ -1,0 +1,6 @@
+t=(1,23,12,54,34)
+print("Tuple",t)
+l=list(t)
+print("List:",l)
+l.sort()
+print("Sorted tuple:",tuple(l))

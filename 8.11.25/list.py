@@ -246,7 +246,7 @@ print("\n40 Write a program to find duplicate elements in a list.")
 l=[1,1,2,4,4,5,7]
 dup=[]
 for i in l:
-    if l.count(i)>1:
+    if l.count(i)>1 and i not in dup:
         dup.append(i)
 print(dup)
 

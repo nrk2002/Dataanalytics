@@ -1,0 +1,5 @@
+t=(1,2.3,"r","krishna")
+print("Tuple:",t)
+l=list(t)
+rem=l.remove("r")
+print("After removinf r:",tuple(l))

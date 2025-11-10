@@ -1,0 +1,5 @@
+t=(1,2.3,"Ramya")
+print("Tuple:",t)
+l=list(t)
+print("List:",l)
+print(type(l))
